@@ -1,0 +1,119 @@
+
+body{
+    background-color: black;
+    
+}
+a.msgdiv {
+    text-decoration: none;
+    color: orangered;
+}
+a.msgdiv:hover
+{
+    color:white;
+}
+#header{
+   
+    font-family: 'Shadows Into Light';    
+    color: #ff5252;
+    text-align: center;
+
+}
+hr{
+    border: 2px solid #ff5252;
+}
+#forimg
+{
+    float: left;
+    width: 100%;
+  
+}
+img.pp
+{
+     border-radius: 50%;
+     position: relative;
+     height: 15%;
+     width: 15%; 
+     padding: 5%;
+      
+}
+#short{
+    font-stretch: 150%;
+    font-family: 'Stylish';    
+    color: antiquewhite;
+    font-size: 150%;
+    color: whitesmoke;
+    height: 10%;
+}
+#info
+{    
+      
+    font-family: 'Raleway';    
+    color: antiquewhite;
+   
+}
+#list
+{
+    text-align: center;
+    padding: 5%;    
+    list-style: none;
+}
+#msg
+{
+    position: fixed;
+    height: 14%;
+    width : 1%;
+    top: 75%;
+    left:0%;
+    background-color: orangered;
+    color: orangered;
+    border: 1px solid black;
+    border-radius: 5%;
+    font-family: 'Raleway';
+    font-size: 75%;
+    z-index: 5;
+}
+#msg:hover
+{
+   
+    color : whitesmoke;
+}
+#footer
+ {  
+    clear: both;
+    position: relative;
+   
+ }
+ 
+ .img
+ {
+    border-radius: 5%;
+   
+ }
+ 
+ .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 25%;
+    color: antiquewhite;
+  }
+  .fa:hover {
+    opacity: 0.7;
+  }
+  .fa-facebook:hover {
+    color:  #3B5998;
+  }
+  .fa-twitter:hover { 
+    color: #55ACEE;
+  }
+  .fa-instagram:hover { 
+    color:#F56040;
+  }
+  
+  .fa-linkedin:hover { 
+    color: #0077b5;
+  }
+
+  
